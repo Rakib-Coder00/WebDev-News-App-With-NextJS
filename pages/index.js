@@ -4,9 +4,9 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>WebDev News</title>
+        <title>WebDev News Application</title>
       </Head>
-      <h1>Welcome to Next JS</h1>
+      <h1>Welcome To News Application</h1>
     </div>
   )
 }
